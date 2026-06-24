@@ -1,4 +1,4 @@
-# KinderKFC - Discord Shop Bot 🍗
+# KinderKFC - Ticket and Product`s Discord bot
 
 ![KinderKFC Logo](https://i.postimg.cc/MKF712hZ/kinderkfclogo2.png)
 
