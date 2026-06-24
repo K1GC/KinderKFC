@@ -28,5 +28,5 @@ A powerful Discord bot designed for managing in-game item shops with ticket-base
 
 **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/kinderkfc.git
+git clone https://github.com/K1GC/kinderkfc.git
 cd kinderkfc
