@@ -1,0 +1,21 @@
+{
+  "name": "kinderkfc",
+  "version": "1.0.0",
+  "description": "Discord ticket and product system - KinderKFC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "shop", "bot", "kinderkfc"],
+  "author": "Paprika",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^9.0.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
