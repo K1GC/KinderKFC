@@ -22,8 +22,11 @@ A powerful Discord bot designed for managing in-game item shops with ticket-base
 - Server with admin permissions
 
 ##  Installation
+## Invite bot in your server
 
-1. **Clone the repository**
+**[Invite KinderKFC](https://discord.com/oauth2/authorize?client_id=1379454218569777152&permissions=8&integration_type=0&scope=bot+applications.commands)**
+
+**Clone the repository**
 ```bash
 git clone https://github.com/yourusername/kinderkfc.git
 cd kinderkfc
